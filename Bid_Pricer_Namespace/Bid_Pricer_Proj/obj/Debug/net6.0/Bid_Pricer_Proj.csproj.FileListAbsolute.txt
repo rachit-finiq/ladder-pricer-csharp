@@ -1,0 +1,12 @@
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\bin\Debug\net6.0\Bid_Pricer_Proj.deps.json
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\bin\Debug\net6.0\Bid_Pricer_Proj.dll
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\bin\Debug\net6.0\Bid_Pricer_Proj.pdb
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.csproj.AssemblyReference.cache
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.AssemblyInfoInputs.cache
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.AssemblyInfo.cs
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.csproj.CoreCompileInputs.cache
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.dll
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\refint\Bid_Pricer_Proj.dll
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\Bid_Pricer_Proj.pdb
+C:\Users\rachi\Desktop\finiq_csharp\Bid_Pricer_Namespace\Bid_Pricer_Proj\obj\Debug\net6.0\ref\Bid_Pricer_Proj.dll
